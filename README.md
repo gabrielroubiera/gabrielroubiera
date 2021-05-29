@@ -1,4 +1,4 @@
-<h3 align="start">Hi👋🏽, Developers💻</h3>
+<h3 align="start">Hi Developers👋🏽💻</h3>
 
 <p align="start" >My name is Gabriel Rodriguez, i am a Junior Software Developer from the Dominican Republic 🇩🇴</p>
 
