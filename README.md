@@ -4,7 +4,7 @@
 
 <p >
 <a href="https://twitter.com/gabrielroubiera"><img src="https://img.shields.io/twitter/follow/gabrielroubiera?style=social" /></a>
-<a href="https://github.com/gabrielroubiera"><img src="https://img.shields.io/github/followers/Robertrm0?label=follow&style=social" /></a>
+<a href="https://github.com/gabrielroubiera"><img src="https://img.shields.io/github/followers/gabrielroubiera?label=follow&style=social" /></a>
 </p>
 
 **About me:**
