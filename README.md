@@ -11,7 +11,7 @@
 
 - 👨🏽‍💻 Passionate about technology and innovation.
 - 🌱 I handle technologies like Nodejs, Laravel and Asp.net core.
-- 💾 Knowledge of SQL and NoSQl databases.
+- 💾 Knowledge of SQL and NoSQL databases.
 - 🐧 Server administration with linux.
 - 💬 Ask me anything, I am willing to help you!
 - 📫 Contactame: grodriguezubiera@gmail.com
