@@ -14,7 +14,7 @@
 - 💾 Knowledge of SQL and NoSQL databases.
 - 🐧 Server administration with linux.
 - 💬 Ask me anything, I am willing to help you!
-- 📫 Contactame: grodriguezubiera@gmail.com
+- 📫 Contact: grodriguezubiera@gmail.com
 - ⏹ Linkedin: https://www.linkedin.com/in/gabrielroubiera/
 
 
