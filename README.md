@@ -3,20 +3,20 @@
 <p align="start" >My name is Gabriel Rodriguez, i am a Junior Software Developer from the Dominican Republic 🇩🇴</p>
 
 <p >
-<a href="https://twitter.com/robertrm00"><img src="https://img.shields.io/twitter/follow/Robertrm00?style=social" /></a>
-<a href="https://github.com/Robertrm0"><img src="https://img.shields.io/github/followers/Robertrm0?label=follow&style=social" /></a>
+<a href="https://twitter.com/gabrielroubiera"><img src="https://img.shields.io/twitter/follow/Robertrm00?style=social" /></a>
+<a href="https://github.com/gabrielroubiera"><img src="https://img.shields.io/github/followers/Robertrm0?label=follow&style=social" /></a>
 </p>
 
-**Sobre mi:**
+**About me:**
 
-- 👨🏽‍💻 apasionado por la tecnología y la innovación.
-- 🌱 Actualmente estoy trabajando con Vue.Js💚 y aprendiendo Node.js con MongoDB.
-- 💬 Preguntame cualquier cosa, estoy dispuesto a ayudarte!;
-- 📫 Contactame: robert02frontend@gmail.com;
-- 📍  Portafolio: https://robertrm0.github.io/
-- ⏹ Linkedin: https://www.linkedin.com/in/robertrm0/
+- 👨🏽‍💻 Passionate about technology and innovation.
+- 🌱 I handle technologies like Nodejs, laravel and Asp.net core.
+- 🐧 Server administration with linux.
+- 💬 Ask me anything, I am willing to help you !;
+- 📫 Contactame: grodriguezubiera@gmail.com;
+- ⏹ Linkedin: https://www.linkedin.com/in/gabrielroubiera/
 
 
 
-![gabrielroubiera's github stats](https://github-readme-stats.vercel.app/api?username=robertrm0&show_icons=true&theme=light)
-![Robertrm0 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertrm0&theme=light&layout=compact)
+![gabrielroubiera's github stats](https://github-readme-stats.vercel.app/api?username=gabrielroubiera&show_icons=true&theme=light)
+![gabrielroubiera Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielroubiera&theme=light&layout=compact)
