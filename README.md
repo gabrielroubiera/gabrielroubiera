@@ -3,17 +3,18 @@
 <p align="start" >My name is Gabriel Rodriguez, i am a Junior Software Developer from the Dominican Republic 🇩🇴</p>
 
 <p >
-<a href="https://twitter.com/gabrielroubiera"><img src="https://img.shields.io/twitter/follow/Robertrm00?style=social" /></a>
+<a href="https://twitter.com/gabrielroubiera"><img src="https://img.shields.io/twitter/follow/gabrielroubiera?style=social" /></a>
 <a href="https://github.com/gabrielroubiera"><img src="https://img.shields.io/github/followers/Robertrm0?label=follow&style=social" /></a>
 </p>
 
 **About me:**
 
 - 👨🏽‍💻 Passionate about technology and innovation.
-- 🌱 I handle technologies like Nodejs, laravel and Asp.net core.
+- 🌱 I handle technologies like Nodejs, Laravel and Asp.net core.
+- 💾 Knowledge of SQL and NoSQl databases.
 - 🐧 Server administration with linux.
-- 💬 Ask me anything, I am willing to help you !;
-- 📫 Contactame: grodriguezubiera@gmail.com;
+- 💬 Ask me anything, I am willing to help you!
+- 📫 Contactame: grodriguezubiera@gmail.com
 - ⏹ Linkedin: https://www.linkedin.com/in/gabrielroubiera/
 
 
