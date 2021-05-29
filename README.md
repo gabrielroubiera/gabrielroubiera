@@ -1,6 +1,6 @@
-<h3 align="start">Hi👋🏽, my name is Gabriel Rodriguez, Junior Software Developer💻</h3>
+<h3 align="start">Hi👋🏽, Developers💻</h3>
 
-<p align="start" >Mi nombre es Robert Romero soy Frontend Developer. Actualmente resido en Republica Dominicana 🇩🇴</p>
+<p align="start" >My name is Gabriel Rodriguez, i am a Junior Software Developer from the Dominican Republic 🇩🇴</p>
 
 <p >
 <a href="https://twitter.com/robertrm00"><img src="https://img.shields.io/twitter/follow/Robertrm00?style=social" /></a>
@@ -18,5 +18,5 @@
 
 
 
-![Robertrm0's github stats](https://github-readme-stats.vercel.app/api?username=robertrm0&show_icons=true&theme=light)
+![gabrielroubiera's github stats](https://github-readme-stats.vercel.app/api?username=robertrm0&show_icons=true&theme=light)
 ![Robertrm0 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertrm0&theme=light&layout=compact)
