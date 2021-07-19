@@ -1,11 +1,10 @@
 <h3 align="start">Hi Developers👋🏽💻</h3>
-
+![](https://komarev.com/ghpvc/?username=gabrielroubiera&color=blueviolet)
 <p align="start" >My name is Gabriel Rodriguez, i am a Junior Software Developer from the Dominican Republic 🇩🇴</p>
 
 <p >
 <a href="https://twitter.com/gabrielroubiera"><img src="https://img.shields.io/twitter/follow/gabrielroubiera?style=social" /></a>
 <a href="https://github.com/gabrielroubiera"><img src="https://img.shields.io/github/followers/gabrielroubiera?label=follow&style=social" /></a>
-![](https://komarev.com/ghpvc/?username=gabrielroubiera&color=blueviolet)
 </p>
 
 **About me:**
