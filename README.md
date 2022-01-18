@@ -1,5 +1,5 @@
 <h3 align="start">Hi Developers👋🏽💻</h3>
-<p align="start" >My name is Gabriel Rodriguez, i am a Junior Software Developer from the Dominican Republic 🇩🇴</p>
+<p align="start" >My name is Gabriel Rodriguez, i am a FullStack Developer from the Dominican Republic 🇩🇴</p>
 
 <p >
 <a href="https://twitter.com/gabrielroubiera"><img src="https://img.shields.io/twitter/follow/gabrielroubiera?style=social" /></a>
@@ -9,7 +9,7 @@
 **About me:**
 
 - 👨🏽‍💻 Passionate about technology and innovation.
-- 🌱 I handle technologies like Nodejs, Laravel and Asp.net core.
+- 🌱 I handle technologies like Nodejs and Laravel.
 - 💾 Knowledge of SQL and NoSQL databases.
 - 🐧 Server administration with linux.
 - 💬 Ask me anything, I am willing to help you!
