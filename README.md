@@ -9,7 +9,7 @@
 **About me:**
 
 - 👨🏽‍💻 Passionate about technology and innovation.
-- 🌱 I handle technologies like Nodejs, Laravel, Codeigniter and ASP.Net Core.
+- 🌱 I handle technologies like Nodejs, Laravel and Codeigniter.
 - 💾 Knowledge of SQL and NoSQL databases.
 - 🐧 Docker and Server administration with linux.
 - 💬 Ask me anything, I am willing to help you!
