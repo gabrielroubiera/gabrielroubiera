@@ -2,7 +2,6 @@
 <p align="start" >My name is Gabriel Rodriguez, i am a Backend Developer from the Dominican Republic 🇩🇴</p>
 
 <p >
-<a href="https://twitter.com/gabrielroubiera"><img src="https://img.shields.io/twitter/follow/gabrielroubiera?style=social" /></a>
 <a href="https://github.com/gabrielroubiera"><img src="https://img.shields.io/github/followers/gabrielroubiera?label=follow&style=social" /></a>
 </p>
 
