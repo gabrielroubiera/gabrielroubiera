@@ -8,8 +8,8 @@
 **About me:**
 
 - 👨🏽‍💻 Passionate about technology and innovation.
-- 🌱 I handle technologies like Nodejs, Laravel and Codeigniter.
-- 💾 Knowledge of SQL and NoSQL databases.
+- 🌱 I handle technologie Laravel, Codeigniter and ASP.Net.
+- 💾 Knowledge of SQL databases.
 - 🐧 Docker and Server administration with linux.
 - 💬 Ask me anything, I am willing to help you!
 - 📫 Contact: grodriguezubiera@gmail.com
